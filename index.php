@@ -95,15 +95,18 @@ include("conexion.php");
 				<div class="row">
 					<div class="col-12">
 						<div class="section-title">
-							<h2>Productos en Tendencias</h2>
+							<h2>Producto en Tendencias</h2>
 						</div>
 					</div>
 				</div>
+
+
+
 				<div class="row">
 					<div class="col-12">
 						<div class="product-info">
 							<div class="nav-main">
-								<!-- Tab Nav -->
+								<!-- Tab Nasda -->
 								<ul class="nav nav-tabs" id="myTab" role="tablist">
 									<li class="nav-item"><a class="nav-link active" data-toggle="tab" href="#man" role="tab">Accesorios</a></li>
 									<li class="nav-item"><a class="nav-link" data-toggle="tab" href="#women" role="tab">Laptops</a></li>
