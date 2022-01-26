@@ -701,7 +701,7 @@ include("conexion.php");
 	</section>
 	<!-- End Shop Services Area -->
 
-	<!-- Start Shop Newsletter  -->
+	<!-- Start Shop News  dsletter  -->
 	<section class="shop-newsletter section">
 		<div class="container">
 			<div class="inner-top">
