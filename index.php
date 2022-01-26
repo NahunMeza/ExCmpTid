@@ -693,7 +693,7 @@ include("conexion.php");
 						<h4>Best Peice</h4>
 						<p>Guaranteed price</p>
 					</div>
-					<!-- End Single Service -->
+					<!-- End Single Servce -->
           <div class="single-service">
 				</div>
 			</div>
