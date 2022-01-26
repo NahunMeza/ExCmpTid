@@ -699,7 +699,7 @@ include("conexion.php");
 			</div>
 		</div>
 	</section>
-	<!-- End Shop Services Area -->
+	<!-- End Shp Services Area -->
 
 	<!-- Start Shop Newsletter  -->
 	<section class="shop-newsletter section">
