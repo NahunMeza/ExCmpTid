@@ -303,7 +303,7 @@
                                    <center><img src="https://cdn1.iconfinder.com/data/icons/data-analytics-data-storage-double-color-black-a-7/52/user__person__avatar__man-512.png" alt="" style="width:20%;">  </center>
                                 <br>
                                 <center>
-                                  <form style="margin-top:5%;"  action="https://nahummeza.000webhostapp.com/ExComp/Sesion/SesionON.php" method="post">
+                                  <form style="margin-top:5%;"  action="Sesion/SesionON.php" method="post">
                                   <div class="col-lg-6 col-md-6 col-12">
                                     <div class="form-group">
                                       <label style="color:black;">Ingresa tu Email<span>*</span></label>
