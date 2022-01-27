@@ -99,7 +99,7 @@
 					<div class="col-lg-2 col-md-2 col-12">
 						<!-- Logo -->
 						<div class="logo" style="width: 60%">
-							<a href="home.php"><img src="Img/logo.png" alt="logo" ></a>
+							<a href="home.php"><img src="logo.png" alt="logo" ></a>
 
 						</div>
 
@@ -252,13 +252,13 @@
                             		<li><a href="#">Servicios</a></li>
 													<li><a href="Contac.php">Contactanos</a></li>
                           <?php
-                          include("ConexLog.php");
+                          include("Sesion/ConexLog.php");
                           $EmailCliente = $_SESSION['EmailCliente'];
-               $querySesion="SELECT tbclienteNombre from  tbcliente  where 	Email  = '$EmailCliente'";
+               $querySesion="SELECT NombreCliente from  tbcliente  where 	Email  = '$EmailCliente'";
                $resultado = mysqli_query($conexion,$querySesion);
                $array =  mysqli_fetch_array($resultado);
                           ?>
-                 <li><a href="Contac.php">Hola,<?php   echo $array['tbclienteNombre'];?>!</a></li>
+                 <li><a href="Contac.php">Hola,<?php   echo $array['NombreCliente'];?>!</a></li>
                           <li><a href="https://nahunmeza.com/ExComp/Sesion/SesionOFF.php">Salir</a></li>
 
 
