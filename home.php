@@ -2,7 +2,7 @@
 ob_start();
  session_start();
 
- include("Sesion/conexion.php");
+ include("conexion.php");
  $EmailCliente =  $_SESSION['EmailCliente'];
 if (!isset($EmailCliente)) {
 
