@@ -16,7 +16,7 @@ include("UserOn.php");
 if ($array['verificaUser']>0   && $array['userTipo'] == 'Cliente' ) {
 	include("UserOn.php");
 	$_SESSION['EmailCliente'] = $EmailCliente;
-    header("location:https://nahunmeza.com/ExComp/home");
+    header("location:https://nahunmeza.com/ExComp/home.php");
 }
 
 else {
