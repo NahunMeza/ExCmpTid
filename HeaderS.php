@@ -99,7 +99,7 @@
 					<div class="col-lg-2 col-md-2 col-12">
 						<!-- Logo -->
 						<div class="logo" style="width: 60%">
-							<a href="home.php"><img src="logo.png" alt="logo" ></a>
+							<a href="home.php"><img src="images/logo.png" alt="logo" ></a>
 
 						</div>
 
