@@ -36,7 +36,7 @@ if (!isset($EmailCliente)) {
 	      <img class="d-block w-100" src="images/banner5.jpg" alt="Third slide">
 	    </div>
 	      <div class="carousel-item">
-	      <img class="d-block w-100" src="imagesxzxzxz/banner2.jpg" alt="Four slide">
+	      <img class="d-block w-100" src="images/banner2.jpg" alt="Four slide">
 	    </div>
 	  </div>
 	  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
