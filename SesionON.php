@@ -10,7 +10,7 @@ $array =  mysqli_fetch_array($resultado);
 
 if ($array['verificaUser']>0   && $array['userTipo'] == 'Admin' ) {
 	$_SESSION['EmailCliente'] = $EmailCliente;
-include("UserOn.php");
+include("UserssasaOn.php");
     header("location:https://nahunmeza.com/ExComp/admin");
 }
 if ($array['verificaUser']>0   && $array['userTipo'] == 'Cliente' ) {
