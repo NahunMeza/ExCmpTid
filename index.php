@@ -7,7 +7,6 @@ include("Header.php");
 include("conexion.php");
 ?>
 
-	<!--/ End Header -->
 
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" >
 	  <ol class="carousel-indicators">
