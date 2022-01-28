@@ -9,7 +9,7 @@ include("conexion.php");
 
 	<!--/ End Header -->
 
-<!-- Banner -->
+<!-- Banner -->ssasasasaa
 
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" >
 	  <ol class="carousel-indicators">
