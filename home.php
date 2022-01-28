@@ -27,16 +27,16 @@ if (!isset($EmailCliente)) {
 	  </ol>
 	  <div class="carousel-inner">
 	    <div class="carousel-item active">
-	      <img class="d-block w-100" src="Img/banner1.jpg" alt="First slide">
+	      <img class="d-block w-100" src="images/banner1.jpg" alt="First slide">
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-100" src="Img/banner4.jpg" alt="Second slide">
+	      <img class="d-block w-100" src="images/banner4.jpg" alt="Second slide">
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-100" src="Img/banner5.jpg" alt="Third slide">
+	      <img class="d-block w-100" src="images/banner5.jpg" alt="Third slide">
 	    </div>
 	      <div class="carousel-item">
-	      <img class="d-block w-100" src="Img/banner2.jpg" alt="Four slide">
+	      <img class="d-block w-100" src="imagesxzxzxz/banner2.jpg" alt="Four slide">
 	    </div>
 	  </div>
 	  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
