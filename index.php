@@ -2,9 +2,8 @@
 ob_start();
  session_start();
 
-
 include("Header.php");
-include("conexionphp");
+include("conexion.php");
 ?
 
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" >
