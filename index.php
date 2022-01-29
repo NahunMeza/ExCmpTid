@@ -2,7 +2,7 @@
 ob_start();
  session_start();
 
-include("Header.php");
+include("Header.php");s
 include("conexion.php");
 ?
 
