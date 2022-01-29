@@ -18,7 +18,7 @@ include("conexion.php");
 	      <img class="d-block w-100" src="https://nahunmeza.com/ExComp/images/banner1.jpg" alt="First slide">
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-100" src="https://nmeza.com/ExComp/images/banner4.jpg" alt="Second slide">
+	      <img class="d-block w-100" src="https://nahunmeza.com/ExComp/images/banner4.jpg" alt="Second slide">
 	    </div>
 	    <div class="carousel-item">
 	      <img class="d-block w-100" src="https://nahunmeza.com/ExComp/images/banner5.jpg" alt="Third slide">
