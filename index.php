@@ -4,9 +4,8 @@ ob_start();
 
 
 include("Header.php");
-include("conexion.php");
-?>
-
+include("conexionphp");
+?
 
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" >
 	  <ol class="carousel-indicators">
